@@ -1,75 +1,28 @@
 circuitId,circuit_name,country,location,lat,lng,alt,n_races,n_results,avg_fastestLapSpeed,first_year,last_year
-1,Albert Park Grand Prix Circuit,Australia,Melbourne,-37.8497,144.968,10,24,518,212.36100318471335,1996,2019
-2,Sepang International Circuit,Malaysia,Kuala Lumpur,2.76083,101.738,18,19,412,199.49867123287672,1999,2017
-3,Bahrain International Circuit,Bahrain,Sakhir,26.0325,50.5106,7,18,380,203.38001928374655,2004,2021
-4,Circuit de Barcelona-Catalunya,Spain,Montmeló,41.57,2.26111,109,31,699,198.14929234972678,1991,2021
-5,Istanbul Park,Turkey,Istanbul,40.9517,29.405,130,8,172,212.34544910179642,2005,2020
-6,Circuit de Monaco,Monaco,Monte-Carlo,43.7347,7.42056,7,67,1604,153.2689457142857,1950,2021
-7,Circuit Gilles Villeneuve,Canada,Montreal,45.5,-73.5228,13,40,992,201.27112540192925,1978,2019
-8,Circuit de Nevers Magny-Cours,France,Magny Cours,46.8642,3.16361,228,18,420,204.3259393939394,1991,2008
-9,Silverstone Circuit,UK,Silverstone,52.0786,-1.01694,153,56,1376,222.53833159268927,1950,2021
-10,Hockenheimring,Germany,Hockenheim,49.3278,8.56583,103,37,935,209.70164593301436,1970,2019
-11,Hungaroring,Hungary,Budapest,47.5789,19.2486,264,36,851,187.33091553133514,1986,2021
-12,Valencia Street Circuit,Spain,Valencia,39.4589,-0.331667,4,5,112,191.55375454545455,2008,2012
-13,Circuit de Spa-Francorchamps,Belgium,Spa,50.4372,5.97139,401,54,1198,225.6608488745981,1950,2021
-14,Autodromo Nazionale di Monza,Italy,Monza,45.6156,9.28111,162,70,1756,241.9238591954023,1950,2020
-15,Marina Bay Street Circuit,Singapore,Marina Bay,1.2914,103.864,18,12,258,165.221496,2008,2019
-16,Fuji Speedway,Japan,Oyama,35.3717,138.927,583,4,91,191.8048048780488,1976,2008
-17,Shanghai International Circuit,China,Shanghai,31.3389,121.22,5,16,342,194.69396726190476,2004,2019
-18,Autódromo José Carlos Pace,Brazil,São Paulo,-23.7036,-46.6997,785,37,857,204.8265140186916,1973,2019
-19,Indianapolis Motor Speedway,USA,Indianapolis,39.795,-86.2347,223,19,573,203.1550714285714,1950,2007
-20,Nürburgring,Germany,Nürburg,50.3356,6.9475,578,41,976,193.99828313253013,1951,2020
-21,Autodromo Enzo e Dino Ferrari,Italy,Imola,44.3439,11.7167,37,29,735,215.98931000000002,1980,2021
-22,Suzuka Circuit,Japan,Suzuka,34.8431,136.541,45,31,731,215.2603693379791,1987,2019
-23,A1-Ring,Austria,Spielberg,47.2197,14.7647,678,25,637,,1970,2003
-24,Yas Marina Circuit,UAE,Abu Dhabi,24.4672,54.6031,3,12,256,191.8178674698795,2009,2020
-25,Autódromo Juan y Oscar Gálvez,Argentina,Buenos Aires,-34.6943,-58.4593,8,20,448,,1953,1998
-26,Circuito de Jerez,Spain,Jerez de la Frontera,36.7083,-6.03417,37,7,204,,1986,1997
-27,Autódromo do Estoril,Portugal,Estoril,38.7506,-9.39417,130,13,367,,1984,1996
-28,Okayama International Circuit,Japan,Okayama,34.915,134.221,266,2,52,,1994,1995
-29,Adelaide Street Circuit,Australia,Adelaide,-34.9272,138.617,58,11,312,,1985,1995
-30,Kyalami,South Africa,Midrand,-25.9894,28.0767,1460,20,506,,1967,1993
-31,Donington Park,UK,Castle Donington,52.8306,-1.37528,88,1,26,,1993,1993
-32,Autódromo Hermanos Rodríguez,Mexico,Mexico City,19.4042,-99.0907,2227,20,478,189.61301,1963,2019
-33,Phoenix street circuit,USA,Phoenix,33.4479,-112.075,345,3,108,,1989,1991
-34,Circuit Paul Ricard,France,Le Castellet,43.2506,5.79167,432,17,461,218.62041379310347,1971,2021
-35,Korean International Circuit,Korea,Yeongam County,34.7333,126.417,0,4,94,190.79108695652172,2010,2013
-36,Autódromo Internacional Nelson Piquet,Brazil,Rio de Janeiro,-22.9756,-43.395,1126,10,286,,1978,1989
-37,Detroit Street Circuit,USA,Detroit,42.3298,-83.0401,177,7,191,,1982,1988
-38,Brands Hatch,UK,Kent,51.3569,0.263056,145,14,374,,1964,1986
-39,Circuit Park Zandvoort,Netherlands,Zandvoort,52.3888,4.54092,6,31,707,205.48555000000002,1952,2021
-40,Zolder,Belgium,Heusden-Zolder,50.9894,5.25694,36,10,282,,1973,1984
-41,Dijon-Prenois,France,Dijon,47.3625,4.89913,484,6,171,,1974,1984
-42,Fair Park,USA,Dallas,32.7774,-96.7587,139,1,26,,1984,1984
-43,Long Beach,USA,California,33.7651,-118.189,12,8,220,,1976,1983
-44,Las Vegas Street Circuit,USA,Nevada,36.1162,-115.174,639,2,60,,1981,1982
-45,Jarama,Spain,Madrid,40.6171,-3.58558,609,9,236,,1968,1981
-46,Watkins Glen,USA,New York State,42.3369,-76.9272,485,20,485,,1961,1980
-47,Scandinavian Raceway,Sweden,Anderstorp,57.2653,13.6042,153,6,159,,1973,1978
-48,Mosport International Raceway,Canada,Ontario,44.0481,-78.6756,332,8,198,,1967,1977
-49,Montjuïc,Spain,Barcelona,41.3664,2.15167,79,4,84,,1969,1975
-50,Nivelles-Baulers,Belgium,Brussels,50.6211,4.32694,139,2,57,,1972,1974
-51,Charade Circuit,France,Clermont-Ferrand,45.7472,3.03889,790,4,78,,1965,1972
-52,Circuit Mont-Tremblant,Canada,Quebec,46.1877,-74.6099,214,2,41,,1968,1970
-53,Rouen-Les-Essarts,France,Rouen,49.3306,1.00458,81,5,94,,1952,1968
-54,Le Mans,France,Le Mans,47.95,0.224231,67,1,15,,1967,1967
-55,Reims-Gueux,France,Reims,49.2542,3.93083,88,11,254,,1950,1966
-56,Prince George Circuit,South Africa,Eastern Cape Province,-33.0486,27.8736,15,3,75,,1962,1965
-57,Zeltweg,Austria,Styria,47.2039,14.7478,676,1,20,,1964,1964
-58,Aintree,UK,Liverpool,53.4769,-2.94056,20,5,138,,1955,1962
-59,Circuito da Boavista,Portugal,Oporto,41.1705,-8.67325,28,2,30,,1958,1960
-60,Riverside International Raceway,USA,California,33.937,-117.273,470,1,23,,1960,1960
-61,AVUS,Germany,Berlin,52.4806,13.2514,53,1,15,,1959,1959
-62,Monsanto Park Circuit,Portugal,Lisbon,38.7197,-9.20306,158,1,16,,1959,1959
-63,Sebring International Raceway,USA,Florida,27.4547,-81.3483,18,1,19,,1959,1959
-64,Ain Diab,Morocco,Casablanca,33.5786,-7.6875,19,1,25,,1958,1958
-65,Pescara Circuit,Italy,Pescara,42.475,14.1508,129,1,16,,1957,1957
-66,Circuit Bremgarten,Switzerland,Bern,46.9589,7.40194,551,5,100,,1950,1954
-67,Circuit de Pedralbes,Spain,Barcelona,41.3903,2.11667,85,2,43,,1951,1954
-68,Buddh International Circuit,India,Uttar Pradesh,28.3487,77.5331,194,3,70,205.05542647058823,2011,2013
-69,Circuit of the Americas,USA,Austin,30.1328,-97.6411,161,8,166,194.82624528301886,2012,2019
-70,Red Bull Ring,Austria,Spielberg,47.2197,14.7647,678,10,204,222.66904081632651,2014,2021
-71,Sochi Autodrom,Russia,Sochi,43.4057,39.9578,2,7,143,210.1137633587786,2014,2020
-73,Baku City Circuit,Azerbaijan,Baku,40.3725,49.8533,-7,5,102,202.60150000000002,2016,2021
-75,Autódromo Internacional do Algarve,Portugal,Portimão,37.227,-8.6267,108,2,40,206.2433076923077,2020,2021
-76,Autodromo Internazionale del Mugello,Italy,Mugello,43.9975,11.3719,255,1,20,208.05327777777777,2020,2020
+9,Silverstone Circuit,UK,Silverstone,52.0786,-1.01694,153,33,525,224.31203647416413,1990,2021
+11,Hungaroring,Hungary,Budapest,47.5789,19.2486,264,32,507,188.64833653846154,1990,2021
+14,Autodromo Nazionale di Monza,Italy,Monza,45.6156,9.28111,162,31,480,242.37573615635176,1990,2020
+4,Circuit de Barcelona-Catalunya,Spain,Montmeló,41.57,2.26111,109,31,481,198.32975816993465,1991,2021
+6,Circuit de Monaco,Monaco,Monte-Carlo,43.7347,7.42056,7,31,418,155.11785501858736,1990,2021
+18,Autódromo José Carlos Pace,Brazil,São Paulo,-23.7036,-46.6997,785,30,444,206.09232258064517,1990,2019
+13,Circuit de Spa-Francorchamps,Belgium,Spa,50.4372,5.97139,401,30,470,226.71198513011151,1990,2021
+7,Circuit Gilles Villeneuve,Canada,Montreal,45.5,-73.5228,13,29,414,202.7075125,1990,2019
+22,Suzuka Circuit,Japan,Suzuka,34.8431,136.541,45,28,441,215.63570588235297,1990,2019
+1,Albert Park Grand Prix Circuit,Australia,Melbourne,-37.8497,144.968,10,24,308,214.05331004366812,1996,2019
+10,Hockenheimring,Germany,Hockenheim,49.3278,8.56583,103,24,343,210.96357471264366,1990,2019
+21,Autodromo Enzo e Dino Ferrari,Italy,Imola,44.3439,11.7167,37,19,250,217.73896103896107,1990,2021
+2,Sepang International Circuit,Malaysia,Kuala Lumpur,2.76083,101.738,18,19,298,200.48463675213674,1999,2017
+8,Circuit de Nevers Magny-Cours,France,Magny Cours,46.8642,3.16361,228,18,262,204.93015294117646,1991,2008
+3,Bahrain International Circuit,Bahrain,Sakhir,26.0325,50.5106,7,18,313,204.0947891373802,2004,2021
+20,Nürburgring,Germany,Nürburg,50.3356,6.9475,578,17,253,197.613893129771,1995,2020
+17,Shanghai International Circuit,China,Shanghai,31.3389,121.22,5,16,292,195.58779109589042,2004,2019
+15,Marina Bay Street Circuit,Singapore,Marina Bay,1.2914,103.864,18,12,203,166.2085369458128,2008,2019
+24,Yas Marina Circuit,UAE,Abu Dhabi,24.4672,54.6031,3,12,221,192.35613122171947,2009,2020
+70,Red Bull Ring,Austria,Spielberg,47.2197,14.7647,678,10,171,223.90821052631577,2014,2021
+5,Istanbul Park,Turkey,Istanbul,40.9517,29.405,130,8,145,212.9961724137931,2005,2020
+19,Indianapolis Motor Speedway,USA,Indianapolis,39.795,-86.2347,223,8,95,205.93378048780488,2000,2007
+32,Autódromo Hermanos Rodríguez,Mexico,Mexico City,19.4042,-99.0907,2227,8,131,189.78317441860463,1990,2019
+69,Circuit of the Americas,USA,Austin,30.1328,-97.6411,161,8,136,196.02623529411764,2012,2019
+71,Sochi Autodrom,Russia,Sochi,43.4057,39.9578,2,7,119,210.81530508474575,2014,2020
+12,Valencia Street Circuit,Spain,Valencia,39.4589,-0.331667,4,5,99,191.74465656565658,2008,2012
+73,Baku City Circuit,Azerbaijan,Baku,40.3725,49.8533,-7,5,77,203.17506493506494,2016,2021
